@@ -9,16 +9,16 @@
 	<translation id="faq1a">Q: As minhas chaves de seguraça privadas estão seguras?</translation>
 	<translation id="faq1b">R: Sim, eles estão protegidos, suas chaves privadas nunca saem do seu navegador.</translation>
 	<translation id="faq2a">P: Como isso é seguro? Está em um navegador da internet!</translation>
-	<translation id="faq2b">R: A carteira MySafeCoin replicou os principais recursos de SafeCoin daemon em JavaScript! Portanto, o processo de criação e assinatura das transações é feito no navegador. Nenhuma informação confidencial é enviada através da rede.</translation>
+	<translation id="faq2b">R: A carteira MySafecoin replicou os principais recursos de Safecoin daemon em JavaScript! Portanto, o processo de criação e assinatura das transações é feito no navegador. Nenhuma informação confidencial é enviada através da rede.</translation>
 	<translation id="faq3a">P: Posso ter o código-fonte?</translation>
 	<translation id="faq3b">R:</translation>
 	<translation id="faq3b">Aqui está</translation>
 	<translation id="faq4a">P: Por que você está fazendo isso?</translation>
-	<translation id="faq4b">R: A carteira MySafeCoin foi inspirada por"</translation>
-	<translation id="faq4c">MyZelCashWallet's</translation>
+	<translation id="faq4b">R: A carteira MySafecoin foi inspirada por"</translation>
+	<translation id="faq4c">MyZenWallet's</translation>
 	<translation id="faq4d">que foi inspirada por</translation>
 	<translation id="faq4e">MyEtherWallet's.</translation>
-	<translation id="faq4f">Nós também queremos oferecer às pessoas a possibilidade de interagir facilmente com o bloco criptografado que anota todas as transações da SafeCoin, sem ter nenhuma dificuldade.</translation>
+	<translation id="faq4f">Nós também queremos oferecer às pessoas a possibilidade de interagir facilmente com o bloco criptografado que anota todas as transações da Safecoin, sem ter nenhuma dificuldade.</translation>
 	<translation id="guide1a">1. Criando uma nova carteira</translation>
 	<translation id="guide1b">Vá para</translation>
 	<translation id="guide1c">Crie uma frase secreta forte, mas fácil de lembrar. Salve a frase em algum lugar e NÃO o esqueça.</translation>
@@ -54,7 +54,7 @@
 	<translation id="wallet2">Certifique-se de que salvou sua frase secreta em algum lugar. O botão 256/64 para a direita alterna entre o comprimento máximo permitido de entrada.</translation>
 	<translation id="wallet3">Frase secreta muito curta</translation>
 	<translation id="wallet4">Gerar / Desbloquear Carteira</translation>
-	<translation id="settings1">Configurações da carteira SafeCoin</translation>
+	<translation id="settings1">Configurações da carteira Safecoin</translation>
 	<translation id="settings2">Insight API</translation>
 	<translation id="settings3">Compressar chave pública</translation>
 	<translation id="settings4">Mostrar gerador de endereços</translation>
@@ -82,6 +82,5 @@
 	<translation id="menu3">Exportar</translation>
 	<translation id="export1">Descarga de chave privada</translation>
 	<translation id="export2">Download de chaves privadas</translation>
-	<translation id="main1">Carteira SafeCoin</translation>
-	<translation id="faqst">and a special thanks to</translation>
+	<translation id="main1">Carteira Safecoin</translation>
 </translations>

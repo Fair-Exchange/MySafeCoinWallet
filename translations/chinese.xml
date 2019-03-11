@@ -15,7 +15,7 @@
 	<translation id="faq3b">在這裡</translation>
 	<translation id="faq4a">Q: 你們怎麼會想做這些？</translation>
 	<translation id="faq4b">A: MySafeCoin 是被</translation>
-	<translation id="faq4c">MyZelCashWallet's</translation>
+	<translation id="faq4c">MySafecoinWallet's</translation>
 	<translation id="faq4d">所啟發，而他們又是被</translation>
 	<translation id="faq4e">MyEtherWallet's.</translation>
 	<translation id="faq4f">所啟發。 我們也希望提供給人們能更簡便地與SafeCoin區塊鏈互動的能力, 而不需要自己運行一個全節點。</translation>
@@ -69,7 +69,7 @@
 	<translation id="retrieve5">them.</translation>
 	<translation id="send1">SafeCoin successfully sent!</translation>
 	<translation id="send2">Click here to view your transaction</translation>
-	<translation id="send3">ALWAYS VALIDATE YOUR DESINATION ADDRESS BY SENDING SMALL AMOUNTS OF ZELcash FIRST</translation>
+	<translation id="send3">ALWAYS VALIDATE YOUR DESINATION ADDRESS BY SENDING SMALL AMOUNTS OF Safecoin FIRST</translation>
 	<translation id="send4">From Address</translation>
 	<translation id="send5">To Address</translation>
 	<translation id="send6">Amount</translation>
@@ -83,7 +83,5 @@
 	<translation id="export1">Private Key Dump</translation>
 	<translation id="export2">Download Private Keys</translation>
 	<translation id="main1">Safecoin Wallet</translation>
-	<translation id="f5">Express your gratitude for the wallet!</translation>
-	<translation id="f6">Go to the Lucky-Mining pool.</translation>
 	<translation id="faqst">and a special thanks to</translation>
 </translations>
